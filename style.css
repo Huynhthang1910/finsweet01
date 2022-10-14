@@ -726,6 +726,10 @@ img.img-fluid.ribbon {
         padding-left: 0.5rem !important;
         padding-right: 0.5rem !important;
     }
+    .header-logo a {
+    margin-bottom: 0.75rem;
+    display: block;
+    }
     .cta-section .cta-right {
         /* padding: 8rem 18.75rem 8rem 8rem; */
         padding: 1rem;
