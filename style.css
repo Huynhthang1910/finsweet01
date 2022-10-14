@@ -104,11 +104,7 @@ li.nav-item {
     padding-bottom: 9.188rem;
 }
 
-.header img.img-fluid {
-    /* /* height: 100%; */
-    /* max-width: none; */
-    /* object-fit: cover; */ 
-}
+
 .help-text h2 {
     font-weight: 600;
     font-size: 48px;
